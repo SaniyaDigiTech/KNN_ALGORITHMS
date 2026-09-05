@@ -29,9 +29,11 @@ The `student.csv` dataset contains:
 - Scikit-learn
 - Jupyter Notebook
 
-##Examples
+# # Examples
+
 Study Hours: 6
 Attendance: 85
 Previous Score: 70
 
-##output: Prediction-Pass
+# # output:
+Prediction-Pass
